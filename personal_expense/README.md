@@ -56,7 +56,7 @@ The Team
 - Andy Primawan 18211030@std.stei.itb.ac.id
 - Christian Hendy 18211036@std.stei.itb.ac.id
 - M Fatoni 18211042@std.stei.itb.ac.id
-- Aria Dhanang 182110@std.stei.itb.ac.id
+- Aria Dhanang 18211008@std.stei.itb.ac.id
 
 ----
 **GO GET GOLD**
